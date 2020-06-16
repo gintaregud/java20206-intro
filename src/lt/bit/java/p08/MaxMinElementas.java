@@ -7,7 +7,7 @@ public class MaxMinElementas {
         int[] m = {-1, 2, 0, 2, -1, 1};
 
         atspausdintiMasyva(m);
-
+        //komentaras
         // skaiciuojame
         sprendimas(m); // masyvas = m
 
